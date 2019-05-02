@@ -1,5 +1,4 @@
-                                                                            [英文](https://github.com/kjhuanhao/HEXO-HHC-BLOG/blob/master/README.md)/中文    
-
+       [英文](https://github.com/kjhuanhao/HEXO-HHC-BLOG/blob/master/README-EN.md)/中文   
 # HEXO-HHC-BLOG阅读文档
 
 ## 简介
