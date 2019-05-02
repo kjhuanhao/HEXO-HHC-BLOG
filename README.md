@@ -1,32 +1,32 @@
-?                                                                            [Ó¢ÎÄ](https://github.com/kjhuanhao/HEXO-HHC-BLOG/blob/master/README.md)/ÖĞÎÄ    
+                                                                            [è‹±æ–‡](https://github.com/kjhuanhao/HEXO-HHC-BLOG/blob/master/README.md)/ä¸­æ–‡    
 
-# HEXO-HHC-BLOGÔÄ¶ÁÎÄµµ
+# HEXO-HHC-BLOGé˜…è¯»æ–‡æ¡£
 
-## ¼ò½é
+## ç®€ä»‹
 
-±¾blog²©¿ÍÌá¹©¸øhexo init¹ı³ÌÖĞ£¬¿¨×¡»òÕßËÙ¶ÈÂıµÄĞ¡»ï°é
+æœ¬blogåšå®¢æä¾›ç»™hexo initè¿‡ç¨‹ä¸­ï¼Œå¡ä½æˆ–è€…é€Ÿåº¦æ…¢çš„å°ä¼™ä¼´
 
-´ËblogÎÄ¼şÎ´½øĞĞinstall£¬ÇëÄú×ÔĞĞÔËĞĞnpm install£¬½¨ÒéÊ¹ÓÃÌÔ±¦Ô´°²×°
+æ­¤blogæ–‡ä»¶æœªè¿›è¡Œinstallï¼Œè¯·æ‚¨è‡ªè¡Œè¿è¡Œnpm installï¼Œå»ºè®®ä½¿ç”¨æ·˜å®æºå®‰è£…
 
-°²×°ºóÄú¼´¿ÉÔËĞĞhexo s½øĞĞ±¾µØä¯ÀÀ
+å®‰è£…åæ‚¨å³å¯è¿è¡Œhexo sè¿›è¡Œæœ¬åœ°æµè§ˆ
 
-> ±¾blogÎÄ¼şÌá¹©ÕßHuanHaoCode
+> æœ¬blogæ–‡ä»¶æä¾›è€…HuanHaoCode
 
-## Ê¹ÓÃ½Ì³Ì
+## ä½¿ç”¨æ•™ç¨‹
 
-### Ò»¡¢ÔÚÖÕ¶Ë»òÕßgit bashÔËĞĞÒÔÏÂÃüÁî
+### ä¸€ã€åœ¨ç»ˆç«¯æˆ–è€…git bashè¿è¡Œä»¥ä¸‹å‘½ä»¤
 
 ```
 git clone https://github.com/kjhuanhao/HEXO-HHC-BLOG.git
 ```
 
-### ¶ş¡¢Äã»áµÃµ½Ò»¸öHEXO-HHC-BLOGÎÄ¼ş¼Ğ
+### äºŒã€ä½ ä¼šå¾—åˆ°ä¸€ä¸ªHEXO-HHC-BLOGæ–‡ä»¶å¤¹
 
 ```
 cd HEXO-HHC-BLOG
 ```
 
-È»ºó
+ç„¶å
 
 ```
 cnpm install
@@ -34,13 +34,13 @@ cnpm install
 
 ***
 
-ÌáÊ¾£ºÈç¹ûÄãÃ»ÓĞ°²×°cnpm£¬ÇëÔËĞĞÒÔÏÂÃüÁî
+æç¤ºï¼šå¦‚æœä½ æ²¡æœ‰å®‰è£…cnpmï¼Œè¯·è¿è¡Œä»¥ä¸‹å‘½ä»¤
 
 ```
 npm install -g cnpm --registry=https://registry.npm.taobao.org
 ```
 
-°²×°cnpmºóÔÙÔËĞĞ
+å®‰è£…cnpmåå†è¿è¡Œ
 
 ```
 cnpm install
@@ -48,24 +48,24 @@ cnpm install
 
 ***
 
-### Èı¡¢ÕâÊ±ºòÄã¾Í¿ÉÒÔ¿ìÀÖµØÏíÊÜhexoµÄ¿ìÀÖ
+### ä¸‰ã€è¿™æ—¶å€™ä½ å°±å¯ä»¥å¿«ä¹åœ°äº«å—hexoçš„å¿«ä¹
 
-ÔËĞĞ
+è¿è¡Œ
 
 ```
 hexo s
 ```
 
-ÔÚä¯ÀÀÆ÷·ÃÎÊ£¬²é¿´ÊÇ·ñ³É¹¦
+åœ¨æµè§ˆå™¨è®¿é—®ï¼ŒæŸ¥çœ‹æ˜¯å¦æˆåŠŸ
 
 > http://localhost:4000/
 
 ***
 
-## ×÷ÕßÏà¹ØĞÅÏ¢
+## ä½œè€…ç›¸å…³ä¿¡æ¯
 
-HHC-BLOG£ºhttps://www.huanhao.xyz
+HHC-BLOGï¼šhttps://www.huanhao.xyz
 
 github: https://www.github.com/kjhuanhao
 
-ßÙÁ¨ßÙÁ¨£ºHuanHaoCode
+å“”å“©å“”å“©ï¼šHuanHaoCode
