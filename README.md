@@ -1,4 +1,4 @@
-                                                                [英文](https://github.com/kjhuanhao/HEXO-HHC-BLOG/blob/master/README-EN.md)/中文    
+​                                                                [英文](https://github.com/kjhuanhao/HEXO-HHC-BLOG/blob/master/README-EN.md)/中文    
 
 # HEXO-HHC-BLOG阅读文档
 
@@ -68,5 +68,4 @@ HHC-BLOG：https://www.huanhao.xyz
 
 github: https://www.github.com/kjhuanhao
 
-哔哩哔哩：HuanHaoCod
 哔哩哔哩：HuanHaoCode
