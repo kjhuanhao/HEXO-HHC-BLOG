@@ -1,4 +1,5 @@
-       [英文](https://github.com/kjhuanhao/HEXO-HHC-BLOG/blob/master/README-EN.md)/中文   
+                                                                [英文](https://github.com/kjhuanhao/HEXO-HHC-BLOG/blob/master/README-EN.md)/中文    
+
 # HEXO-HHC-BLOG阅读文档
 
 ## 简介
@@ -31,7 +32,7 @@ cd HEXO-HHC-BLOG
 cnpm install
 ```
 
-***
+------
 
 提示：如果你没有安装cnpm，请运行以下命令
 
@@ -45,7 +46,7 @@ npm install -g cnpm --registry=https://registry.npm.taobao.org
 cnpm install
 ```
 
-***
+------
 
 ### 三、这时候你就可以快乐地享受hexo的快乐
 
@@ -59,7 +60,7 @@ hexo s
 
 > http://localhost:4000/
 
-***
+------
 
 ## 作者相关信息
 
@@ -67,4 +68,5 @@ HHC-BLOG：https://www.huanhao.xyz
 
 github: https://www.github.com/kjhuanhao
 
+哔哩哔哩：HuanHaoCod
 哔哩哔哩：HuanHaoCode
