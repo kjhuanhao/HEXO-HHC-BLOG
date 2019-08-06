@@ -64,8 +64,8 @@ hexo s
 
 ## 作者相关信息
 
-HHC-BLOG：https://www.huanhao.xyz
+HuanHao-BLOG：http://301technology.cn/
 
 github: https://www.github.com/kjhuanhao
 
-哔哩哔哩：HuanHaoCode
+哔哩哔哩：301技术
